@@ -1,6 +1,3 @@
-***
-
-```markdown
 # 📊 Amazon Sales Intelligence & Consumer Behavioral Analytics
 
 An end-to-end data analytics and consumer intelligence project designed to uncover core product characteristics that drive conversions on Amazon. By evaluating product categories, pricing models, promotional discounts, ratings, and textual sentiment, this repository translates raw marketplace data into strategic, actionable recommendations for product development, pricing strategies, and target marketing.
@@ -59,3 +56,10 @@ The project processes a multi-column Amazon Sales Dataset containing:
 * **Communication Optimization:** Mining positive textual sentiments reveals the specific functional phrasing and keywords that optimize ad copy conversion.
 
 ---
+
+## 💻 How to Get Started
+
+### Prerequisites
+Ensure your local environment or workspace has the necessary packages installed:
+```bash
+pip install pandas numpy matplotlib seaborn nltk
