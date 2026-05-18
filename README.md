@@ -56,10 +56,3 @@ The project processes a multi-column Amazon Sales Dataset containing:
 * **Communication Optimization:** Mining positive textual sentiments reveals the specific functional phrasing and keywords that optimize ad copy conversion.
 
 ---
-
-## 💻 How to Get Started
-
-### Prerequisites
-Ensure your local environment or workspace has the necessary packages installed:
-```bash
-pip install pandas numpy matplotlib seaborn nltk
